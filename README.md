@@ -10,6 +10,7 @@ Para esto el cliente cuenta con los siguientes comandos:
 * `/subscribe <name>` - Subscribirse a un canal especifico, solo uno a la vez.
 * `/channels` - Lista de los canales disponibles.
 * `/sendfile <filename>` - enviar archivo.
+* `/quit` - desconectarse.
  ## 
  ### Testing :hammer_and_wrench:
  Para empezar ejecutar el archivo FileServe.exe ese será nuestro servidor, también se debe tener 2 o más terminales para cada uno de los clientes.
